@@ -4,8 +4,7 @@
 
 
 
-## Write a short comment describing this function
-
+## create CacheMatrix by passing initial matrix, includes functions set and get
 
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -27,7 +26,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-## Write a short comment describing this function
+## compute inverse for the matrix 
 
 
 
